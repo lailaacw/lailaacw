@@ -64,7 +64,7 @@ Currently, I'm expanding my skills in Python, SQL, Tableau, Power BI, and predic
 
 ## 📂 Featured Projects
 
-### 💳 Credit Risk Analysis
+### 💳 [Credit Risk Analysis](https://github.com/lailaacw/credit-risk-analysis)
 Developed a machine learning model to predict loan default risk using customer financial profiles and behavioral data. Performed exploratory data analysis, feature engineering, model evaluation, and interpreted key risk drivers to support more accurate and data-driven credit decisions.
 
 **Tech:** Python • Pandas • Scikit-Learn • Matplotlib
