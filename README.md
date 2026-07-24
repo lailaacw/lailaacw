@@ -64,6 +64,12 @@ Currently, I'm expanding my skills in Python, SQL, Tableau, Power BI, and predic
 
 ## 📂 Featured Projects
 
+### 💳 Credit Risk Analysis
+Developed a machine learning model to predict loan default risk using customer financial profiles and behavioral data. Performed exploratory data analysis, feature engineering, model evaluation, and interpreted key risk drivers to support more accurate and data-driven credit decisions.
+
+**Tech:** Python • Pandas • Scikit-Learn • Matplotlib
+
+---
 ### 🚗 Predictive Employee Churn Analysis
 Machine learning project that predicts employee attrition using Random Forest and business-driven feature engineering, achieving approximately **90% recall** while generating actionable HR retention strategies.
 
