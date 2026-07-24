@@ -70,7 +70,7 @@ Developed a machine learning model to predict loan default risk using customer f
 **Tech:** Python • Pandas • Scikit-Learn • Matplotlib
 
 ---
-### 🚗 Predictive Employee Churn Analysis
+### 🚗 [Predictive Employee Churn Analysis](https://github.com/lailaacw/HR-Analytics-Employee-Turnover)
 Machine learning project that predicts employee attrition using Random Forest and business-driven feature engineering, achieving approximately **90% recall** while generating actionable HR retention strategies.
 
 **Tech:** Python • Pandas • Scikit-Learn • Matplotlib
